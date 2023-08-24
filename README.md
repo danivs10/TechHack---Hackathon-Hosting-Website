@@ -2,6 +2,16 @@
 
 Welcome to the Hackathon Hosting Platform project! This open source initiative aims to create a comprehensive and user-friendly platform for organizing and participating in hackathons. Whether you're a developer, designer, or enthusiast, this platform is designed to empower you to showcase your skills, collaborate, and innovate.
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; width: 50%;">
+    ![Screenshot 1](/screenshots/screenshot1.png)
+  </div>
+  <div style="flex: 1; width: 50%;">
+    ![Screenshot 2](/screenshots/screenshot2.png)
+  </div>
+</div>
+
+
 ## Table of Contents #️⃣
 - [Overview](#overview)
 - [Features](#features)
